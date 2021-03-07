@@ -15,9 +15,9 @@ Created an issue here to ask about this repository and they said it does not lik
 
 Question 2: 
 
-## Open Source Projects I want written
+## Open Source Projects Wanted
 
-Firstly a series of demos progressively building up features would be useful.
+Would like to see a few demos progressively building up features.
 
 1. A 3D cube always in front of the user on the screen.
 2. A 3D cube which stays "in place" while the user can walk around it.
@@ -30,5 +30,5 @@ Firstly a series of demos progressively building up features would be useful.
 9. ?
 ## Open Source
 
-* [?]([[https://...](https://github.com/h-nishihata/NRealGlasses)](https://github.com/h-nishihata/NRealGlasses)) - NRealGlasses - Demo project
-* [xrshimaneNRealHandsOn]([[https://...](https://github.com/yusuke-ota/XRShimane-NRealHandsOn)](https://github.com/yusuke-ota/XRShimane-NRealHandsOn)) - NRealGlasses - Demo project
+* [NReal-PostProcessing-Test](https://github.com/gakui3/Nreal-PostProcessing-Test) - ?
+* 
