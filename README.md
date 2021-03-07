@@ -2,6 +2,11 @@
 Exploring NReal Lite
 A curated list of awesome NReal Lite projects, libraries and software.
 
+# NReal Videos
+
+* [Playlist of NRSDK Developing Tutorials from NReal](https://www.youtube.com/playlist?list=PLL5TxFqWatXeUR1nqy6JHdf_dufXdeF0b)
+* [NReal on One Plus 7T](https://www.youtube.com/watch?v=lzkj4iC_Sf0)
+
 ## Unresolved Questions
 
 Question 1: Can the XRTK - Mixed Reality Toolkit work on NReal Lite?
